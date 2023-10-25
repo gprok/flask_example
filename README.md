@@ -10,4 +10,4 @@ cd to the new directory and
 
 Install rquired libraries: ```pip install -r requirements.txt```
 
-Run: ```flask --app server run```  
+Run: ```flask --app server --debug run```  
